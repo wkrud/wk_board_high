@@ -1,0 +1,11 @@
+server:
+  port: 0
+
+spring:
+  config:
+    import:
+      - classpath:/yaml/application-dev.yml
+      - classpath:/yaml/application-prd.yml
+  profiles:
+    active: dev
+
