@@ -1,7 +1,7 @@
-package com.wk.boardHigh.test.service;
+package com.wk.boardHigh.service;
 
-import com.wk.boardHigh.test.mapper.TestMapper;
-import com.wk.boardHigh.test.vo.TestVo;
+import com.wk.boardHigh.mapper.TestMapper;
+import com.wk.boardHigh.vo.TestVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

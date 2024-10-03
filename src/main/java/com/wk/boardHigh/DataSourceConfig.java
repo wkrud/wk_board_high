@@ -20,7 +20,7 @@ import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import javax.sql.DataSource;
 
 @Configuration
-@MapperScan(basePackages = {"com.wk.boardHigh.test.mapper"}, annotationClass = Mapper.class)
+@MapperScan(basePackages = {"com.wk.boardHigh.mapper"}, annotationClass = Mapper.class)
 public class DataSourceConfig {
 
     @Autowired

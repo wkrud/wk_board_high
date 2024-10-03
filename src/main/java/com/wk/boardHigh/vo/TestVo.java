@@ -1,4 +1,4 @@
-package com.wk.boardHigh.test.vo;
+package com.wk.boardHigh.vo;
 
 import lombok.Getter;
 import lombok.Setter;

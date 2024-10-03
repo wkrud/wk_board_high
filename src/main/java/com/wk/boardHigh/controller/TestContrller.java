@@ -1,7 +1,7 @@
-package com.wk.boardHigh.test.controller;
+package com.wk.boardHigh.controller;
 
-import com.wk.boardHigh.test.service.TestService;
-import com.wk.boardHigh.test.vo.TestVo;
+import com.wk.boardHigh.service.TestService;
+import com.wk.boardHigh.vo.TestVo;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;

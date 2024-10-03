@@ -1,6 +1,6 @@
-package com.wk.boardHigh.test.mapper;
+package com.wk.boardHigh.mapper;
 
-import com.wk.boardHigh.test.vo.TestVo;
+import com.wk.boardHigh.vo.TestVo;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
